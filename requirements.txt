@@ -2,4 +2,5 @@ transformers
 diffusers
 torch
 pydantic
+torchcodec
 boto3
